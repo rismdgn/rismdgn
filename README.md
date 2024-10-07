@@ -4,8 +4,8 @@ I am an undergraduate Information Systems student at the **University of Jember*
 
 ### About Me:
 - 📘 Currently learning about **Machine Learning**.
+- 🐍 Exploring **Python** for data analysis and machine learning.
 - 💻 Still figuring things out in **Data Analysis** and **Machine Learning**.
-- 🌱 Participant of **Bangkit Academy 2024** on the Machine Learning Path.
 - 😸 Fun fact: I love cats, but unfortunately, I'm allergic to them!
   
 ### Let's Connect:
