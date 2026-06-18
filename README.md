@@ -1,4 +1,4 @@
-# Hi there, I'm Risma Dwi Anggraini 👋
+# Hi there, I'm Risma 👋
 
 I am an undergraduate Information Systems student at the **University of Jember** with a growing passion for **Machine Learning** and **Data**. While I consider myself a newbie, I am eager to learn and constantly improve my skills in these areas. 
 
